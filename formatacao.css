@@ -1,0 +1,75 @@
+body {
+    background-image: linear-gradient(red, darkred, red);
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+ 
+    size: 100px;
+    height: 100px;
+    border-radius: 5px;
+    border-color: black;
+    border-image: 10px;
+    margin-left: 600px;
+    border: 1px solid
+}
+
+img:hover {
+    opacity: 50%;
+}
+
+nav { 
+    text-align: center;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 3px 3px 3px darkred
+}
+
+
+.a {
+    color: black;
+    text-decoration: none;
+}
+
+.a:hover {
+    color: darkred;
+}
+
+.b {
+    color: black;
+    text-decoration: none;
+}
+
+.b:hover {
+    color:darkred
+}
+
+.c {
+    color:black;
+    text-decoration: none;
+}
+
+.c:hover {
+    color: darkred;
+}
+
+.d {
+    color:black;
+    text-decoration: none;
+}
+
+.d:hover {
+    color: darkred;
+}
+
+iframe {
+    text-align: center;
+    margin-left: 400px;
+}
